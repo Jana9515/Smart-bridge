@@ -128,9 +128,9 @@ MIT License — use it freely, just give credit.
 
 ## 🙋 Author
 
-**Appala Nagendra varma**
-GitHub: [Nagendra14319](https://github.com/Nagendra14319)
-Email: *nagendravarma1315@gmail.com*
+**Sirolla Janardhan**
+GitHub:[Jana9515](https://GitHub.com/Jana9515)
+Email: jana93748@gmail.com
 
 ---
 
