@@ -55,7 +55,7 @@ smart\_city\_assistant/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Nagendra14319/smart_city_assistant.git
+git clone https://github.com/Jana9515/smart_city_assistant.git
 cd smart_city_assistant
 ````
 
